@@ -3,6 +3,7 @@ b站视频下载
 
 ## 环境 env
  - python3.7+
+ - ffmpeg
 
 ## 使用方法 quick start
 ```python
